@@ -1,6 +1,9 @@
 Toodete koguarv: 362
+
 Veerge: 9
+
 Tootekategooriaid: 5
+
 Kalleimad tooted:
 
 | product_name                           | category      | retail_price |
