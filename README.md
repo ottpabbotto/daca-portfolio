@@ -21,7 +21,10 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Muudatuste tegemine pushitud failides
  
 ### Week 2: SQL Andmete Puhastamine
-- (tulemas...)
+- Duplikaatide tuvastad ja eemaldamine
+- NULL väärtuste leidmine ja käsitlemine
+- Andmeväljade puhastamine ja ühtlustamine
+
  
 ## Oskused
  
