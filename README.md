@@ -25,7 +25,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - NULL väärtuste leidmine ja käsitlemine
 - Andmeväljade puhastamine ja ühtlustamine
 
-### Week 3: SQL Andmete Puhastamine
+### Week 3: SQL JOINs
 - Tabelite ühendamine INNER JOIN abil, kasutades ON klauslit ja tabeli aliaseid
 - "Kadunud" andmete tuvastamine LEFT JOIN + WHERE IS NULL mustriga
 - Äriküsimustele vastamiseks 3+ tabelit ühendavate päringute ehitamine
