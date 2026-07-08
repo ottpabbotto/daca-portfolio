@@ -21,11 +21,16 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Muudatuste tegemine pushitud failides
  
 ### Week 2: SQL Andmete Puhastamine
-- Duplikaatide tuvastad ja eemaldamine
+- Duplikaatide tuvastamine ja eemaldamine
 - NULL väärtuste leidmine ja käsitlemine
 - Andmeväljade puhastamine ja ühtlustamine
 
- 
+### Week 3: SQL Andmete Puhastamine
+- Tabelite ühendamine INNER JOIN abil, kasutades ON klauslit ja tabeli aliaseid
+- "Kadunud" andmete tuvastamine LEFT JOIN + WHERE IS NULL mustriga
+- Äriküsimustele vastamiseks 3+ tabelit ühendavate päringute ehitamine
+
+
 ## Oskused
  
 - **SQL:** PostgreSQL, Supabase
