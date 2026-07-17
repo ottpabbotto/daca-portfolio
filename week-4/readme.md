@@ -60,4 +60,7 @@ Soovitused:
     | top_11_kogukaive_kokku |
     | ---------------------- |
     | 514782.99              |
+
+
+Link grupi esitlusele: https://docs.google.com/presentation/d/1SS6k_cT2pWrrN8gYZRzrid3MBiVDPOdu/edit?usp=drive_link&ouid=116770722897723888912&rtpof=true&sd=true
     
