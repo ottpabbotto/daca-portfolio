@@ -30,6 +30,12 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - "Kadunud" andmete tuvastamine LEFT JOIN + WHERE IS NULL mustriga
 - Äriküsimustele vastamiseks 3+ tabelit ühendavate päringute ehitamine
 
+### Week 4: SQL Aggregation
+- Andmete grupeerimine äriloogika järgi, kasutades GROUP BY lauseid
+- Grupeeritud tulemuste filtreerimine HAVING klausliga ja eristad seda WHERE-st
+- Keerulisi päringute struktureerimine CTE-de ja window function'itega
+
+
 
 ## Oskused
  
