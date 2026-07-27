@@ -35,6 +35,10 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Grupeeritud tulemuste filtreerimine HAVING klausliga ja eristad seda WHERE-st
 - Keerulisi päringute struktureerimine CTE-de ja window function'itega
 
+### Week 5: Visualiseerimise disain
+- Õige diagrammitüübi valimine iga äriküsimuse jaoks (joon-, tulp-, sektor-, hajuvusdiagramm, KPI kaart)
+- Dashboard'i paigutuse kavandamine, mis järgib visuaalset hierarhiat ja Z/F-mustrit
+- Filtrite ja interaktiivsuse loogika planeerimine, mis muudab staatilise dashboard'i dünaamiliseks
 
 
 ## Oskused
