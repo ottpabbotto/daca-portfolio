@@ -40,6 +40,12 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Dashboard'i paigutuse kavandamine, mis järgib visuaalset hierarhiat ja Z/F-mustrit
 - Filtrite ja interaktiivsuse loogika planeerimine, mis muudab staatilise dashboard'i dünaamiliseks
 
+### Week 6: Visualiseerimise andmed
+- Diagrammidele annotatsioonide lisamine, mis selgitavad andmete tähendust
+- Andmelugusid (data story) kirjutamine, mis muudavad numbrid veenvaks narratiiviks
+- Sama andmestiku esitluse kohandamine vastavalt erinevatele sihtrühmadele (CEO, IT, turundus)
+
+
 
 ## Oskused
  
