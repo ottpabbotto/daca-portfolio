@@ -1,0 +1,1 @@
+.ipynb fail, mis määrab segmendid ja segmenteerib puhastatud dataframest (.csv-fail) kliendid customer_id alusel segmentidesse
