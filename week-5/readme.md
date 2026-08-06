@@ -1,0 +1,1 @@
+Dashboard müügiandmete, laoseisu ja koondvaatega.
