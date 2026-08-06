@@ -1,1 +1,3 @@
-Dashboard müügiandmete, laoseisu ja koondvaatega.
+Dashboardid müügiandmete, laoseisu ja koondvaatega.
+
+Screenshotid dashboardidest.
