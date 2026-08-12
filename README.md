@@ -45,7 +45,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Andmelugusid (data story) kirjutamine, mis muudavad numbrid veenvaks narratiiviks
 - Sama andmestiku esitluse kohandamine vastavalt erinevatele sihtrühmadele (CEO, IT, turundus)
 
-### Week 7: Visualiseerimise andmed
+### Week 7: Python Pandas
 - Andmete laadimine ja uurimine pandas DataFrame'ina, kasutades read_csv(), head(), describe() ja info()
 - Andmete filtreerimine, grupeerimine ja transformeerimine pandas'iga (boolean indexing, groupby, merge) ning arusaamine, kuidas need vastavad SQL-i WHERE, GROUP BY ja JOIN lausetele
 - Interaktiivsete visualiseerimiste loomine Plotly Express'iga (px.bar, px.scatter, px.line)
