@@ -50,6 +50,11 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Andmete filtreerimine, grupeerimine ja transformeerimine pandas'iga (boolean indexing, groupby, merge) ning arusaamine, kuidas need vastavad SQL-i WHERE, GROUP BY ja JOIN lausetele
 - Interaktiivsete visualiseerimiste loomine Plotly Express'iga (px.bar, px.scatter, px.line)
 
+### Week 8: Python APIs
+- Andmetele laadimine Supabase Python client'i kaudu, kasutades API päringuid (select, filter, order)
+- Parameetritega funktsioonide kirjutamine, mis automatiseerivad korduvaid analüüsiülesandeid (iganädalane raport, segmenteerimine)
+- Lihtsustatud andmepipeline'i ehitamine, mis ühendab andmete toomise, töötlemise ja visualiseerimise üheks automatiseeritud vooluks
+
 
 ## Oskused
  
