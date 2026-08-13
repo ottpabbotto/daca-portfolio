@@ -48,3 +48,9 @@ Moodulit saab kasutada:
     1. importides funktsioonid pipeline.py-sse
     2. käivitades transform.py iseseisvalt, mille puhul
        käivitatakse sisseehitatud kvaliteeditestid.
+
+
+
+visualize_export.py ja pipeline.py -
+
+Loodud grupitöö tarbeks, ilustamata. Esimene loob andmete põhjal joondiagrammi ja KPI kaardid, ning expordib need .html ja .csv kujul Output kausta. Teine laeb kõikidest eelnevatest andmed ja automatiseerib kogu protsessi.
