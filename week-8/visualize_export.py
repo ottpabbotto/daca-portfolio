@@ -97,7 +97,7 @@ def create_kpi_summary(kpis):
     fig.add_trace(
         go.Indicator(
             mode="number",
-            value=kpis.get("customer_count", 0),
+            value=kpis.get("unique_customers", 0),
             title={"text": "Klientide arv"},
             number={"font": {"color": "#1A1A2E"}},
             domain={"row": 0, "column": 1}
@@ -180,14 +180,14 @@ if __name__ == "__main__":
 
     # Loome näidisandmed nädalase käibe diagrammi testimiseks.
     weekly_data = pd.DataFrame({
-        "week": ["W1", "W2", "W3", "W4"],
+        "sale_date": ["W1", "W2", "W3", "W4"],
         "revenue": [12500, 13800, 14900, 17800]
     })
 
     # Loome näidisandmed KPI-kaartide testimiseks.
     kpi_values = {
         "total_revenue": 59000,
-        "customer_count": 1250,
+        "unique_customers": 1250,
         "avg_order_value": 47.2
     }
 
